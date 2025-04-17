@@ -28,8 +28,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/ajinkya1806/Stock-Market-Prediction-Model.git
+   cd Stock-Market-Prediction-Model
    ```
 
 2. Install the required Python packages:
